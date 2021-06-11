@@ -1,6 +1,6 @@
 I build web apps, API servers and software architectures. I'm an independent technology developer and I'm dedicated to research in philosophy, designing personal UI / UX projects and prototyping new technologies.
 
-With over five years of experience working with web development, REST, GraphQL, SQL, NoSQL, and a solid knowledge of OOP / SOLID software concepts in JavaScript / TypeScript, Python, React and Vue.js. I'm currently researching Go and Rust.
+With over five years of experience working with web development, REST, GraphQL APIs, SQL, NoSQL databases and a solid knowledge of OOP / SOLID software concepts in JavaScript / TypeScript, Python, React and Vue.js. I'm currently researching Go and Rust.
 
 <!--
 **frndvrgs/frndvrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
