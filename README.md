@@ -1,5 +1,3 @@
-I build web apps, API servers and software architectures. I'm an independent technology developer dedicated to research in philosophy, personal UI / UX projects, game design and prototyping new tools.
+I build apps, API servers and software architectures with JavaScript, TypeScript and Python.
 
-I have over five years of experience working on front-end and back-end with React and Vue.js, gRPC, REST and GraphQL APIs, SQL and NoSQL databases, Test-Driven Development (TDD), Domain-Driven Design (DDD), Clean Code, functional and object-oriented architectures to services / microservices infrastructures.
-
-JavaScript, TypeScript and Python.
+As an independent technology developer I have years of experience working on front-end and back-end with React, Svelte and Vue web applications, REST, gRPC and GraphQL APIs, SQL and NoSQL databases.
