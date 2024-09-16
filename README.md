@@ -1,3 +1,1 @@
-I build apps, API servers and software architectures with JavaScript, TypeScript and Python.
-
-I'm a technology engineer working on both front and back end stacks with React, Svelte and Vue applications, REST, gRPC and GraphQL APIs, SQL and NoSQL databases.
+Software Engineer with more than 8 years of experience in full-stack development, specializing in modern web technologies. Expert in TypeScript, React, Next.js and Node.js with advanced proficiency in GraphQL, gRPC and REST API design. Proven track record with clean architectures, scalable backend solutions and delivering high-performance web applications.
